@@ -10,8 +10,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'CollabDrive',
-  description: 'CollabDrive - The only storage solution you need.',
+  title: 'Drivio',
+  description: 'Drivio - The only storage solution you need.',
 };
 
 export default function RootLayout({
